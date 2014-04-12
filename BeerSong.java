@@ -17,5 +17,10 @@ public class BeerSong {
 				System.out.println("No more bottles of beer on the wall");
 			}
 		}
+<<<<<<< HEAD
 	}
 }
+=======
+	} 
+} 
+>>>>>>> 1d981c4e5acb146f698ab8d316fbb41d52fb7a08
