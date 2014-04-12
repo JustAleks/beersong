@@ -15,7 +15,7 @@ public class BeerSong {
 				System.out.println(beerNum + " " + word + " of beer on the wall");
 			} else {
 				System.out.println("No more bottles of beer on the wall");
-			} // end else
-		} // end while loop
-	} // end main method
-} // end class
+			}
+		}
+	}
+}
